@@ -108,7 +108,8 @@ Predict customer churn:
 
 ## 🤖 Model Output
 
-<img width="1347" height="709" alt="Confusion Matrix   Classification Report" src="https://github.com/user-attachments/assets/131bf73f-7ff7-49c8-9543-4df12f5c4cf5" />
+<img width="1564" height="811" alt="model_output" src="https://github.com/user-attachments/assets/10d8c2d1-efc8-4c27-9a88-419cac2db191" />
+
 
 
 ---
