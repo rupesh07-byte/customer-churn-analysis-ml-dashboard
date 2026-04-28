@@ -100,8 +100,8 @@ Predict customer churn:
 ---
 
 ## 📷 Dashboard Preview
+<img width="1332" height="749" alt="dashboard" src="https://github.com/user-attachments/assets/d0d1f1cc-b31a-4111-b1c5-ce4c9dad3f26" />
 
-<img width="1325" height="749" alt="dashboard" src="https://github.com/user-attachments/assets/b481a042-083a-443f-869c-76c6c6952577" />
 
 
 
