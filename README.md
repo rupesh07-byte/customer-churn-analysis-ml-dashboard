@@ -108,7 +108,8 @@ Predict customer churn:
 
 ## 🤖 Model Output
 
-<img width="1564" height="811" alt="model_output" src="https://github.com/user-attachments/assets/10d8c2d1-efc8-4c27-9a88-419cac2db191" />
+<img width="1389" height="838" alt="model_output" src="https://github.com/user-attachments/assets/155265e4-0781-4f83-aecc-92ef75b407d1" />
+
 
 
 
